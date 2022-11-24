@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/renat/.m2/repository/javax/javaee-web-api/7.0/javaee-web-api-7.0.jar;C:/Users/renat/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar;C:/Users/renat/.m2/repository/com/squareup/okhttp3/okhttp/4.9.0/okhttp-4.9.0.jar;C:/Users/renat/.m2/repository/com/squareup/okio/okio/2.8.0/okio-2.8.0.jar;C:/Users/renat/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib-common/1.4.0/kotlin-stdlib-common-1.4.0.jar;C:/Users/renat/.m2/repository/org/jetbrains/kotlin/kotlin-stdlib/1.4.10/kotlin-stdlib-1.4.10.jar;C:/Users/renat/.m2/repository/org/jetbrains/annotations/13.0/annotations-13.0.jar;C:/Users/renat/.m2/repository/net/sf/jasperreports/jasperreports/6.17.0/jasperreports-6.17.0.jar;C:/Users/renat/.m2/repository/commons-beanutils/commons-beanutils/1.9.4/commons-beanutils-1.9.4.jar;C:/Users/renat/.m2/repository/commons-collections/commons-collections/3.2.2/commons-collections-3.2.2.jar;C:/Users/renat/.m2/repository/commons-digester/commons-digester/2.1/commons-digester-2.1.jar;C:/Users/renat/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar;C:/Users/renat/.m2/repository/org/apache/commons/commons-collections4/4.2/commons-collections4-4.2.jar;C:/Users/renat/.m2/repository/com/lowagie/itext/2.1.7.js8/itext-2.1.7.js8.jar;C:/Users/renat/.m2/repository/org/bouncycastle/bcprov-jdk15on/1.64/bcprov-jdk15on-1.64.jar;C:/Users/renat/.m2/repository/org/jfree/jcommon/1.0.23/jcommon-1.0.23.jar;C:/Users/renat/.m2/repository/org/jfree/jfreechart/1.0.19/jfreechart-1.0.19.jar;C:/Users/renat/.m2/repository/org/eclipse/jdt/ecj/3.21.0/ecj-3.21.0.jar;C:/Users/renat/.m2/repository/org/codehaus/castor/castor-xml/1.4.1/castor-xml-1.4.1.jar;C:/Users/renat/.m2/repository/org/codehaus/castor/castor-core/1.4.1/castor-core-1.4.1.jar;C:/Users/renat/.m2/repository/org/apache/commons/commons-lang3/3.4/commons-lang3-3.4.jar;C:/Users/renat/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar;C:/Users/renat/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.2/jackson-core-2.12.2.jar;C:/Users/renat/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.2/jackson-databind-2.12.2.jar;C:/Users/renat/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.2/jackson-annotations-2.12.2.jar;C:/Users/renat/.m2/repository/org/primefaces/primefaces/10.0.0/primefaces-10.0.0.jar;C:/Users/renat/.m2/repository/com/oracle/database/jdbc/ojdbc8/21.1.0.0/ojdbc8-21.1.0.0.jar;C:/Users/renat/.m2/repository/net/sf/jasperreports/jasperreports-fonts/6.17.0/jasperreports-fonts-6.17.0.jar;C:/Users/renat/.m2/repository/org/projectlombok/lombok/1.18.2/lombok-1.18.2.jar;C:/Users/renat/.m2/repository/org/apache/poi/poi/4.1.2/poi-4.1.2.jar;C:/Users/renat/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar;C:/Users/renat/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar;C:/Users/renat/.m2/repository/org/apache/poi/poi-ooxml/4.1.2/poi-ooxml-4.1.2.jar;C:/Users/renat/.m2/repository/org/apache/poi/poi-ooxml-schemas/4.1.2/poi-ooxml-schemas-4.1.2.jar;C:/Users/renat/.m2/repository/org/apache/xmlbeans/xmlbeans/3.1.0/xmlbeans-3.1.0.jar;C:/Users/renat/.m2/repository/org/apache/commons/commons-compress/1.19/commons-compress-1.19.jar;C:/Users/renat/.m2/repository/com/github/virtuald/curvesapi/1.06/curvesapi-1.06.jar;C:/Users/renat/.m2/repository/commons-codec/commons-codec/1.13/commons-codec-1.13.jar;C:/Users/renat/.m2/repository/javax/mail/mail/1.4.5/mail-1.4.5.jar;C:/Users/renat/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar;C:/Users/renat/.m2/repository/com/sun/mail/javax.mail/1.6.2/javax.mail-1.6.2.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/renat/OneDrive/Documentos/FARMAVIC_/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/renat/OneDrive/Documentos/FARMAVIC_/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'FARMAVIC_ODAO 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'C:/Users/renat/OneDrive/Documentos/FARMAVIC_/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'FARMAVIC_ODAO 1.0-SNAPSHOT API'
